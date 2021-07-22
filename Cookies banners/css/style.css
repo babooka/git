@@ -1,0 +1,457 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #E5E5E5;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+.cookies1 {    
+    position: relative;
+    max-width: 1440px;
+    margin-top: 228px;
+    height: 72px;
+    background-color: #0B2239;
+    font-family: Inter;
+}
+
+.cookies1-text { 
+    position: absolute;
+    color: #FFFFFF; 
+    font-size: 13px;
+    font-weight: 400;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 20px;
+    max-width: 922px;
+    height: 40px;
+    top: 16px;
+    left: 144px;
+    right:398px;
+}
+
+
+.cookies1-link {
+    position: absolute;
+    color:#4AD295;
+    width: 90px;
+    height: 20px;
+    font-size: 12px;
+    font-weight: 500;
+    top: 16px;
+    right: 270px;
+    padding: 10px 10px; 
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 20px; 
+}
+
+.cookies1-button {
+    position: absolute;
+    right: 120px;
+    top: 16px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 20px;
+    color: #FFFFFF;
+    background-color: #4AD295;
+    width: 130px;
+    height: 36px;
+    border-radius: 3px;
+    border: 0px;
+}
+
+.cookies2 {
+    position: relative;
+    top: 24px;
+    max-width: 1440px;
+    height: 52px;
+    background-color: #2B2627;
+    font-family: Inter;
+
+}
+
+.cookies2-img-info {
+    position: absolute;
+    height: 16px;
+    width: 16px;
+    top: 18px;
+    left:345.5px;
+    right:8px;
+}
+
+.cookies2-text {
+    position: relative;
+    left: 369.6px;
+    font-size: 13px;
+    color: #FFFFFF;
+    top: 16px;
+    height: 20px;
+    max-width: 689px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 20px;
+
+}
+
+.cookies2-text>a {
+    color: #FFFFFF;
+}
+
+.cookies2-img-cross {
+position: absolute;
+right:345.5px;
+top: 18px;
+max-width: 16px;
+height: 16px;
+}
+
+.cookies3 {
+    position: relative;
+    background-color:#FFFFFF;
+    border-radius: 16px;
+    top:72px;
+    width: 560px;
+    height: 72px;
+    font-family: Inter;
+}
+
+.cookies3-vector {
+    position: absolute;
+    background-color: #fdeef4 ;
+    padding: 8px;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    top:18px;
+    left: 16px;
+}
+
+.cookies3-text {
+    position: absolute;
+    font-style: normal;
+    font-weight: 400;;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    max-width: 347px;
+    height: 40px;
+    left: 62px;
+    top: 16px;
+}
+
+.cookies3-text>a {
+    color: #EA4C89 ;
+}
+.cookies3-button-decline {
+    background-color: #f3f3f3;
+    position: absolute;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 20px;    
+    left: 419px;
+    top: 22px;
+    width: 63px;
+    height: 28px;
+    padding: 4px, 10px, 4px, 10px;
+    border-radius: 8px;
+    border: 0;
+}
+
+.cookies3-button-allow {
+    background-color: #EA4C89;
+    color: white;
+    position: absolute;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 20px;    
+    left: 492px;
+    top: 22px;
+    width: 52px;
+    height: 28px;
+    padding: 4px, 10px, 4px, 10px;
+    border-radius: 8px;
+    border: 0;
+}
+
+.cookies4 {
+    position: relative;
+    width: 560px;
+    height: 64px;
+    background-color: #26262B;
+    top: 96px;
+    border-radius: 10px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.cookies4-text {
+    position: absolute;
+    width: 469px;
+    height: 40px;
+    top: 12px;
+    left: 16px;
+    color: #FFFFFF;
+}
+
+.cookies4-text>a {
+    color: #e6842e;
+}
+
+.cookies4-button-okay {
+    position: absolute;
+    width: 49px;
+    border:0;
+    height: 28px;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    padding: 4px 10px;
+    top: 18px;
+    left: 495px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.cookies5 {
+    position: relative;
+    top: 168px;
+    width: 360px;
+    height: 206px;
+    background-color: #252d47;
+    border-radius: 6px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.cookies5-title {
+    position: absolute;
+    color:#FFFFFF;
+    width: 122px;
+    top:24px;
+    left:24px;
+    height: 20px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.cookies5 a {
+    color: #FFFFFF;
+}
+
+.cookies5-text {
+    position: absolute;
+    top: 54px;
+    left:24px;
+    width: 312px;
+    height: 80px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+
+.cookies5-link {
+    position: absolute;
+    top:158px;
+    left:24px;
+    width: 160px;
+    height: 16px;
+}
+
+.cookies5-button {
+    position: absolute;
+    background-color: #09B3AF;
+    width: 85px;
+    height: 32px;
+    padding: 8px 20;
+    top: 150px;
+    left: 251px;
+    border-radius: 6px;
+    border: 0px;
+}
+
+.cookies6 {
+    position: relative;
+    width: 360px;
+    height: 170px;
+    border-radius: 16px;
+    background-color: #FFFFFF;
+    left:424px;
+    top:-38px;
+    font-family: 'Roboto';
+}
+
+.cookies6-title {
+    position: absolute;
+    top:16px;
+    left:16px;
+    width: 132px;
+    height: 20px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.cookies6-text {
+    position: absolute;
+    width: 328px;
+    height: 60px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    color: #687F8C;
+    font-weight: 400;
+    left: 16px;
+    top: 46px;
+}
+
+.cookies6-button-manage {
+    position: absolute;
+    width: 160px;
+    height: 32px;
+    background-color: #EAF0F4;
+    color:#687F8C;
+    border-radius: 6px;
+    padding: 8px;
+    top:122px;
+    left:16px;
+    border:0px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+
+}
+
+.cookies6-button-accept {
+    position: absolute;
+    background-color: #40C1A7;
+    color: #FFFFFF;
+    width: 160px;
+    height: 32px;
+    border-radius: 6px;
+    border:0px;
+    padding: 8px;
+    top:122px;
+    left:184px;
+}
+
+.cookies7 {
+    position: relative;
+    width: 320px;
+    height: 260px;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    top: 72px;
+    font-family: 'inter';
+}
+
+.cookies7-title {
+    position: absolute;
+    width: 104px;
+    height: 48px;
+    color: #15295A;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 28px;
+    line-height: 48px;
+    top:32px;
+    left:108px;
+
+}
+
+.cookies7-text {
+    position:absolute;
+    text-align: center;
+    color: #15295A;
+    width: 256px;
+    height: 72px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    top:80px;
+    left:32px;
+}
+
+.cookies7-button {
+    position: absolute;
+    border-radius: 43px;
+    color:#FFFFFF;
+    background-color: #4A7EFF;
+    width: 121px;
+    height: 44px;
+    padding: 10px 32px;
+    border: 0px;
+    top:184px;
+    left:99.5px;
+}
+
+.cookies8 {
+    position: absolute;
+    width: 320px;
+    height: 137px;
+    background-color: #FFFFFF;
+    border-radius: 4px;
+    top:958px;
+    left:384px;
+
+}
+
+.cookies8-text {
+    position: absolute;
+    top:16px;
+    left:16px;
+    width: 288px;
+    height: 60px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.cookies8-link {
+    position: absolute;
+    width: 95px;
+    height: 17px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #6666FF;
+    top:96px;
+    left:16px;
+
+}
+
+.cookies8-button {
+    position: absolute;
+    width: 64px;
+    height: 33px;
+    background-color: #6666FF;
+    color: #FFFFFF;
+    border-radius: 4px;
+    border:0px;
+    top: 88px;
+    left:240px;
+}
