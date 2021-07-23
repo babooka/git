@@ -11,7 +11,7 @@ body {
     margin-top: 228px;
     height: 72px;
     background-color: #0B2239;
-    font-family: Inter;
+    font-family: 'Inter';
 }
 
 .cookies1-text { 
@@ -68,7 +68,7 @@ body {
     max-width: 1440px;
     height: 52px;
     background-color: #2B2627;
-    font-family: Inter;
+    font-family: 'Inter';
 
 }
 
@@ -115,7 +115,7 @@ height: 16px;
     top:72px;
     width: 560px;
     height: 72px;
-    font-family: Inter;
+    font-family: 'Inter';
 }
 
 .cookies3-vector {
@@ -132,7 +132,7 @@ height: 16px;
 .cookies3-text {
     position: absolute;
     font-style: normal;
-    font-weight: 400;;
+    font-weight: 400;
     font-weight: normal;
     font-size: 14px;
     line-height: 20px;
@@ -185,7 +185,7 @@ height: 16px;
     background-color: #26262B;
     top: 96px;
     border-radius: 10px;
-    font-family: Inter;
+    font-family: 'Inter';
     font-style: normal;
     font-weight: normal;
     font-size: 12px;
@@ -362,7 +362,7 @@ height: 16px;
     border-radius: 20px;
     background-color: #FFFFFF;
     top: 72px;
-    font-family: 'inter';
+    font-family: 'Inter';
 }
 
 .cookies7-title {
