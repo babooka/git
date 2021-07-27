@@ -1,0 +1,32 @@
+* {
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+main {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: stretch;
+    align-items: stretch;
+}
+
+ul {
+    min-height: 100vh;
+    min-width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding:0;
+}
+
+li {
+    background: chartreuse;
+    width: 200px;
+    height: 100px;
+    list-style: none;
+    border-radius: 6px;
+    color: #fff;
+    margin: 5px;
+}
