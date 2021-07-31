@@ -1,0 +1,295 @@
+body {
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: normal;
+    
+}
+
+.head-block {
+    position: relative;
+    max-width: 1440px;
+    height: 500px;
+    background-color: #ED4C5C;
+}
+
+.main-img {
+    position: absolute;
+    height: 311px;
+    width: 445px;
+    right: 260px;
+    top: 94px;
+}
+
+.left-img {
+    position: absolute;
+    height: 267px;
+    width: 383px;
+    right: 366px;
+    top: 116px;
+    z-index: 1;
+}
+
+.right-img {
+    position: absolute;
+    height: 267px;
+    width: 383px;
+    right: 216px;
+    top: 116px;
+    z-index: 2;
+}
+
+.main-img {
+    position: absolute;
+    height: 311px;
+    width: 445px;
+    right: 260px;
+    top: 94px;
+    z-index: 10;
+}
+
+.head-block>h1 {
+    position: absolute;
+    top: 122px;
+    left: 165px;
+    height: 107px;
+    width: 445px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 43px;
+    color: #FFFFFF;
+}
+
+.apps-img {
+    position: absolute;
+    width: 134px;
+    height: 32px;
+    top: 357px;
+    left: 163px;
+    padding: 2px;
+}
+
+.head-block>p {
+    position: absolute;
+    width: 445px;
+    height: 64px;
+    top:253px;
+    left:165px;
+    color: #FFFFFF;
+    font-size: 14px;
+    line-height: 140%;
+    text-align: justify;
+    font-weight: 400;
+}
+
+.second {
+    position: relative;
+    width: 1440px;
+    height: 500px;
+    background: #FFFFFF;
+    margin-bottom: 45px;
+}
+
+.second>h2 {
+    position: absolute;
+    width: 445px;
+    height: 107px;
+    top: 117px;
+    left: 176px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 43px;
+    color: #000000;
+}
+
+.second>p {
+    position: absolute;
+    width: 434px;
+    height: 64px;
+    left: 176px;
+    top: 213px;
+    font-size: 14px;
+    line-height: 140%;
+    text-align: justify;
+}
+
+
+
+.first-name {
+    position: absolute;
+    top: 117px;
+    right:450px;
+    width: 255px;
+    height: 60px;
+    border: 1px solid #333333;
+    border-radius: 6px;
+    box-sizing: border-box;
+    padding: 31px;
+    color:#8993a1;
+
+}
+
+.last-name {
+    position: absolute;
+    top: 117px;
+    right:165px;
+    width: 255px;
+    height: 60px;
+    border: 1px solid #333333;
+    border-radius: 6px;
+    box-sizing: border-box;
+    padding: 31px;
+    color:#8993a1;
+
+}
+
+.phone-area {
+    position: absolute;
+    width: 540px;
+    height: 60px;
+    top: 201px;
+    right:165px;
+    color:#8993a1;
+    border: 1px solid #333333;
+    border-radius: 6px;
+    box-sizing: border-box;
+    padding: 31px;
+
+}
+
+.service-area {
+    position: absolute;
+    width: 540px;
+    height: 60px;
+    top: 285px;
+    right:165px;
+    color:#8993a1;
+    border: 1px solid #333333;
+    border-radius: 6px;
+    box-sizing: border-box;
+    padding: 31px;
+
+}
+
+.submit-button {
+    position: absolute;
+    width: 160px;
+    height: 50px;
+    top:372px;
+    right: 545px;        
+    background: #ED4C5C;
+    border: 1.5px solid #ED4C5C;
+    box-sizing: border-box;
+    border-radius: 6px;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.footer-block {
+    position: relative;
+    width: 1440px;
+    height: 435px;
+    background: #FAFAFA;
+    font-size: 12px;
+    
+
+}
+
+.footer-block h3 {
+    font-weight: 700;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    color: #101010;
+}
+
+
+.address {
+    position: absolute;
+    top: 85px;
+    left: 166px;
+}
+
+.address p {
+    position: relative;
+    top: 33px;
+    height: 54px;
+    width: 254px;
+    line-height: 19px;
+}
+
+
+.service {
+    position:absolute;
+    left:450px;
+    top: 85px;
+}
+
+.service>a {
+    position: relative;
+    top: 28px;
+    display: block;
+    color: #000000;
+    font-size: 12px;
+    line-height: 19px;
+    text-decoration:none;
+}
+
+.touch {
+    position: absolute;
+    top: 85px;
+    left:734px;
+}
+
+.touch a {
+display: block;
+color: #101010;
+font-size: 12px;
+line-height: 14px;
+text-decoration:none;
+font-weight: 400;
+}
+
+.email  {
+    position: relative;
+    top: 33px;
+}
+
+.phone {
+    position: relative;
+    top: 58px;
+}
+
+.touch img  {
+    margin-right: 10px;
+
+}
+
+
+.images {
+    position: relative;
+    top: 88px; 
+    height: 12px;
+   
+}
+
+
+.support {
+    position: absolute;
+    top: 85px;
+    left:1022px;
+}
+
+.footer-block span {
+    position:absolute;
+    top: 335px;
+    left: 161px;
+}
+
+.support img {
+    position: relative;
+    top: 33px;
+}
