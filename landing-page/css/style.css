@@ -8,7 +8,7 @@ body {
 
 .head-block {
     position: relative;
-    max-width: 1440px;
+    max-width: 100%;
     height: 500px;
     background-color: #ED4C5C;
 }
@@ -84,7 +84,7 @@ body {
 
 .second {
     position: relative;
-    width: 1440px;
+    width: 100%;
     height: 500px;
     background: #FFFFFF;
     margin-bottom: 45px;
@@ -189,7 +189,7 @@ body {
 
 .footer-block {
     position: relative;
-    width: 1440px;
+    width: 100%;
     height: 435px;
     background: #FAFAFA;
     font-size: 12px;
