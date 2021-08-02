@@ -190,9 +190,11 @@ body {
 .footer-block {
     position: relative;
     width: 100%;
-    height: 435px;
+    height: 350px;
     background: #FAFAFA;
     font-size: 12px;
+    padding-top: 85px;
+    padding-left: 166px;
     
 
 }
@@ -204,18 +206,16 @@ body {
     font-size: 18px;
     line-height: 22px;
     color: #101010;
+    margin-bottom: 33px;
 }
 
 
 .address {
-    position: absolute;
-    top: 85px;
-    left: 166px;
+    position: relative;
 }
 
 .address p {
-    position: relative;
-    top: 33px;
+    position: absolute;
     height: 54px;
     width: 254px;
     line-height: 19px;
@@ -229,8 +229,6 @@ body {
 }
 
 .service>a {
-    position: relative;
-    top: 28px;
     display: block;
     color: #000000;
     font-size: 12px;
@@ -255,15 +253,17 @@ font-weight: 400;
 
 .email  {
     position: relative;
-    top: 33px;
+    top 33px;
+    margin-bottom: 11px;
 }
 
 .phone {
     position: relative;
-    top: 58px;
+    margin-bottom: 14px;
 }
 
 .touch img  {
+    position: relative;
     margin-right: 10px;
 
 }
@@ -271,7 +271,6 @@ font-weight: 400;
 
 .images {
     position: relative;
-    top: 88px; 
     height: 12px;
    
 }
@@ -283,13 +282,12 @@ font-weight: 400;
     left:1022px;
 }
 
-.footer-block span {
-    position:absolute;
-    top: 335px;
-    left: 161px;
-}
-
 .support img {
     position: relative;
-    top: 33px;
 }
+
+.footer-block span {
+    position: absolute;
+    top: 335px;
+}
+
